@@ -6,7 +6,6 @@
     "architecture": {
         "64bit": {
             "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-29/emacs-29.0.91.zip",
-            "hash": ""
         }
     },
     "extract_dir": "emacs-29",
