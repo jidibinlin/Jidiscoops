@@ -8,7 +8,7 @@
             "url": "https://alpha.gnu.org/gnu/emacs/pretest/windows/emacs-29/emacs-29.0.91.zip"
         }
     },
-    "extract_dir": "emacs-$version",
+    "extract_dir": "emacs-29.0.91",
     "bin": [
         "bin\\runemacs.exe",
         "bin\\emacs.exe",
